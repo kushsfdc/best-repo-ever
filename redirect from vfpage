@@ -1,0 +1,3 @@
+  <apex:column headerValue="Account Name">
+     <apex:outputLink target="_blank" value="/{!a.id}">{!a.Name}</apex:outputLink> 
+                    </apex:column>   
